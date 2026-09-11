@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | K T Ahitha |
+| **LinkedIn** | (https://www.linkedin.com/in/ahitha-k-t-912292292/) |
+| **Location** | Tamil Nadu, India |
+| **Background** | Computer Science student |
+| **Goal** | Build strong DevOps & AI skills and gain practical experience through real-world projects |
 
 ---
 
