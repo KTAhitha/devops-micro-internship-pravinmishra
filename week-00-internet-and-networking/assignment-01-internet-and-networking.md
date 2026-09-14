@@ -34,9 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
----
+I learned that a protocol is a set of rules that devices follow to communicate with each other over a network. 
+It is similar to following common rules while having a conversation so that both people can understand each other.
 
 # 🌐 Task 2: Internet and Networking
 
