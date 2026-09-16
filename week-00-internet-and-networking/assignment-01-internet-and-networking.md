@@ -58,9 +58,9 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user in the USA opens the EpicReads website, the request travels through the Internet to the server located in Finland. First, the website’s IP address helps identify the destination server, similar to a postal address. The data is divided into small pieces called packets. This is known as packet switching, where packets can travel through different network paths and are reassembled at the destination.
 
----
+TCP/IP is the main set of communication rules that helps send these packets correctly from the USA to Finland. TCP ensures the data arrives properly, while IP handles addressing and routing. Finally, HTTP or HTTPS is used for communication between the user's browser and the EpicReads server. HTTPS also encrypts the communication, making it more secure.
 
 # 🏗️ Task 3: Application Architecture & Stack
 
