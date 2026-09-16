@@ -180,10 +180,6 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 ![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
-
----
-
 # 🔗 Task 6: Publish Your Assignment as a LinkedIn Post
 
 ## Objective
